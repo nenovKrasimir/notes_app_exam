@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'notes_web_exam.notes_web_app',
 ]
 
 MIDDLEWARE = [
